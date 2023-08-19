@@ -1,0 +1,72 @@
+[debug] [2023-08-18T14:08:49.248Z] ----------------------------------------------------------------------
+[debug] [2023-08-18T14:08:49.250Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\desktop\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2023-08-18T14:08:49.251Z] CLI Version:   12.4.8
+[debug] [2023-08-18T14:08:49.251Z] Platform:      win32
+[debug] [2023-08-18T14:08:49.251Z] Node Version:  v18.6.0
+[debug] [2023-08-18T14:08:49.254Z] Time:          Fri Aug 18 2023 19:38:49 GMT+0530 (India Standard Time)
+[debug] [2023-08-18T14:08:49.255Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-08-18T14:08:49.258Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[info] Already logged in as vaibhavsoni2909@gmail.com
+[debug] [2023-08-18T14:09:06.211Z] ----------------------------------------------------------------------
+[debug] [2023-08-18T14:09:06.213Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\desktop\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-08-18T14:09:06.214Z] CLI Version:   12.4.8
+[debug] [2023-08-18T14:09:06.214Z] Platform:      win32
+[debug] [2023-08-18T14:09:06.214Z] Node Version:  v18.6.0
+[debug] [2023-08-18T14:09:06.215Z] Time:          Fri Aug 18 2023 19:39:06 GMT+0530 (India Standard Time)
+[debug] [2023-08-18T14:09:06.215Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-08-18T14:09:06.218Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2023-08-18T14:09:06.266Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-08-18T14:09:06.266Z] > authorizing via signed-in user (vaibhavsoni2909@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\desktop\Desktop\Javascript animation\card animations
+
+[debug] [2023-08-18T14:09:17.338Z] *** [apiv2] error from fetch(https://firebase-public.firebaseio.com/cli.json, {"headers":{},"method":"GET"}): FetchError: request to https://firebase-public.firebaseio.com/cli.json failed, reason: getaddrinfo ENOTFOUND firebase-public.firebaseio.com
+[warn] !  Unable to fetch the CLI MOTD and remote config. 
+[debug] [2023-08-18T14:09:17.338Z] Failed to fetch MOTD FirebaseError: Failed to make request to https://firebase-public.firebaseio.com/cli.json
+[debug] [2023-08-18T14:09:20.301Z] Error: Timed out.
+    at Timeout._onTimeout (C:\Users\desktop\AppData\Roaming\npm\node_modules\firebase-tools\lib\utils.js:254:49)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-08-18T14:09:33.240Z] ----------------------------------------------------------------------
+[debug] [2023-08-18T14:09:33.242Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\desktop\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-08-18T14:09:33.243Z] CLI Version:   12.4.8
+[debug] [2023-08-18T14:09:33.243Z] Platform:      win32
+[debug] [2023-08-18T14:09:33.243Z] Node Version:  v18.6.0
+[debug] [2023-08-18T14:09:33.244Z] Time:          Fri Aug 18 2023 19:39:33 GMT+0530 (India Standard Time)
+[debug] [2023-08-18T14:09:33.244Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-08-18T14:09:33.247Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2023-08-18T14:09:33.294Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-08-18T14:09:33.294Z] > authorizing via signed-in user (vaibhavsoni2909@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\desktop\Desktop\Javascript animation\card animations
+
+[debug] [2023-08-18T14:09:44.356Z] *** [apiv2] error from fetch(https://firebase-public.firebaseio.com/cli.json, {"headers":{},"method":"GET"}): FetchError: request to https://firebase-public.firebaseio.com/cli.json failed, reason: getaddrinfo ENOTFOUND firebase-public.firebaseio.com
+[warn] !  Unable to fetch the CLI MOTD and remote config. 
+[debug] [2023-08-18T14:09:44.357Z] Failed to fetch MOTD FirebaseError: Failed to make request to https://firebase-public.firebaseio.com/cli.json
+[debug] [2023-08-18T14:09:52.304Z] Error: Timed out.
+    at Timeout._onTimeout (C:\Users\desktop\AppData\Roaming\npm\node_modules\firebase-tools\lib\utils.js:254:49)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+[error] 
+[error] Error: An unexpected error has occurred.
